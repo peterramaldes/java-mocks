@@ -1,2 +1,7 @@
-# java-mocks
-Java Mocks
+# Java Mocks
+
+Some testing using:
+
+* Mockito
+* PowerMock
+* White Internal State
